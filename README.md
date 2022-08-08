@@ -1,6 +1,24 @@
-# Vuetify_app
+# vuetify_app
 
+## Project setup
+```
+yarn install
+```
 
-- Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips.
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-- https://vuetifyjs.com/en/
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
